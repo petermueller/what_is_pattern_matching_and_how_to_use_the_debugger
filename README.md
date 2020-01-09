@@ -1,10 +1,12 @@
 # What is Pattern Matching and How to Use the Debugger
-## Talk w/ a Live demo
 
-### Slides
-> Uses Deckset with `deckset.md`
+## Slides
+Uses Deckset with `deckset.md`
 
-### Debugger Demo
+Can also you `deckset.pdf` export
+
+
+## Debugger Demo
 > Uses `banana/` directory.
 
 To run:
